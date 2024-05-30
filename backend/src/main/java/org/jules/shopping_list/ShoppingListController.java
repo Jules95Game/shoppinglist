@@ -13,6 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class ShoppingListController {
     @GetMapping
     public List<String> get() {
+//        todo add tastier food
         return List.of(
                 "boter",
                 "kaas",
