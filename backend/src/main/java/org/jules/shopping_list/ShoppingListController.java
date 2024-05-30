@@ -17,7 +17,6 @@ public class ShoppingListController {
         return List.of(
                 "boter",
                 "kaas",
-                "spek",
                 "scharreleieren",
                 "biologisch sinaasappelsap"
         );
